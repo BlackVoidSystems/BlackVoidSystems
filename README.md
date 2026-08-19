@@ -1,8 +1,8 @@
 🖤 BlackVoidSystems
 
-«Memorable developer positioning.»
+Hi, I'm Triston, The developer behind BlackVoidSystems 
 
-Hi, I'm BlackVoidSystems. I build, break, troubleshoot, and secure systems while continuously expanding my skills across IT, Linux, networking, and cybersecurity.
+I build, break, troubleshoot, and secure systems while continuously expanding my skills across IT, Linux, networking, and cybersecurity.
 
 <p align="center">
   <picture>
